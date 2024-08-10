@@ -1,3 +1,0 @@
-# CODE OF CONDUCT
-
-test - CODE_OF_CONDUCT.md
